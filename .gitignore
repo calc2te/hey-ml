@@ -1,2 +1,4 @@
+.*
+!.gitignore
 *test_*/
 MNIST_data
